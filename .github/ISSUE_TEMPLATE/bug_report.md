@@ -31,3 +31,6 @@ If applicable, add screenshots to help explain your problem.
 
 **Additional context**
 Add any other context about the problem here.
+
+**error messages**
+add your error message on a site like pastebin  
