@@ -1,8 +1,8 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: ''
-labels: ''
+title: 'I Found a bug'
+labels: 'bug'
 assignees: ''
 
 ---
@@ -21,7 +21,7 @@ Steps to reproduce the behavior:
 A clear and concise description of what you expected to happen.
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+If applicable,add screenshots to help explain your problem.
 
 **Desktop (please complete the following information):**
  - OS: [e.g. Windows 10]
@@ -33,4 +33,4 @@ If applicable, add screenshots to help explain your problem.
 Add any other context about the problem here.
 
 **error messages**
-add your error message on a site like pastebin  
+add your error message on a site like [pastebin](https://pastebin.com/)  
