@@ -23,6 +23,9 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable,add screenshots to help explain your problem.
 
+**Video**
+even better than a screenshot, please also add a video for your problem.use a site like https://imgur.com/ and upload the video
+
 **Desktop (please complete the following information):**
  - OS: [e.g. Windows 10]
  - Java version [e.g. java 8]
