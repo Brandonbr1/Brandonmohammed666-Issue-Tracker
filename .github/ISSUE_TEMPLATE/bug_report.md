@@ -24,7 +24,7 @@ A clear and concise description of what you expected to happen.
 If applicable,add screenshots to help explain your problem.
 
 **Video**
-even better than a screenshot, please also add a video for your problem.Use a site like  and youtube to upload the video
+even better than a screenshot, please also add a video for your problem. Use a site like YouTube to upload the video
 
 **Desktop (please complete the following information):**
  - OS: [e.g. Windows 10]
