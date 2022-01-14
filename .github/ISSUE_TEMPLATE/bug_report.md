@@ -24,7 +24,7 @@ A clear and concise description of what you expected to happen.
 If applicable,add screenshots to help explain your problem.
 
 **Video**
-even better than a screenshot, please also add a video for your problem.use a site like https://imgur.com/ and upload the video
+even better than a screenshot, please also add a video for your problem.Use a site like https://imgur.com/ and upload the video
 
 **Desktop (please complete the following information):**
  - OS: [e.g. Windows 10]
@@ -36,4 +36,4 @@ even better than a screenshot, please also add a video for your problem.use a si
 Add any other context about the problem here.
 
 **error messages**
-add your error message on a site like [pastebin](https://pastebin.com/)  
+add your error messages/log files on a site like [pastebin](https://pastebin.com/)
