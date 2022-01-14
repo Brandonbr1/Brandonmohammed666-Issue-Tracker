@@ -12,7 +12,7 @@ A clear and concise description of what the bug is.
 
 
 **what are you using**
-what are you using a modpack a mod or an addon
+what are you using a modpack a mod or an addon and spefically what
 
 **To Reproduce**
 Steps to reproduce the behavior:
