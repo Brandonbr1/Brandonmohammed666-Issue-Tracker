@@ -7,11 +7,13 @@ assignees: ''
 
 ---
 
-**other mods**
-do you have other mods that might cause incompatibility 
+
 
 **Describe the bug**
 A clear and concise description of what the bug is.
+
+**other mods**
+do you have other mods that might cause incompatibility 
 
 
 **what are you using**
