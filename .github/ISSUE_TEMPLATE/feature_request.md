@@ -7,4 +7,6 @@ assignees: ''
 
 ---
 
-** give a concise description of the features you want to add **
+**what do you want to add as a new feature a modpack,mod,plugin,addon etc and spefically what** 
+
+**give a concise description of the features you want to add**
